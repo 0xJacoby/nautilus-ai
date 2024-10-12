@@ -11,6 +11,17 @@
 [![Discord](https://img.shields.io/badge/Discord-Open_WebUI-blue?logo=discord&logoColor=white)](https://discord.gg/5rJgQTnV4s)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tjbck)
 
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 15px">
+<h4 style="margin-top: 0; text-decoration: underline"><b>Nautilus AI</b> implementation ideas</h4>
+
+  - [ ] Stash unsent message. *[Button left of the 'send message' box]*
+  - [ ] Automatic tracking of OpenAI credit usage. *[Left of three dots in top right corner]*
+  - [ ] Additional settings for implementations above:
+    - [ ] Options to enable/disable each implementation.
+    - [ ] Option to specify current available OpenAI credit for its automatic calculation.
+    - [ ] Option to automatically convert the credit value into swedish currency (SEK).
+</div>
+
 Open WebUI is an [extensible](https://github.com/open-webui/pipelines), feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs. For more information, be sure to check out our [Open WebUI Documentation](https://docs.openwebui.com/).
 
 ![Open WebUI Demo](./demo.gif)
